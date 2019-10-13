@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIndows.Net.Utility", "IoSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows.Net.Service", "Windows.Net.Service\Windows.Net.Service.csproj", "{E2512E39-0FC7-418D-AFC5-3A59CF1803F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Core.Dashboard", "Web.Core.Dashboard\Web.Core.Dashboard.csproj", "{628F3966-F06C-4BC9-9A04-ECABE01978E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Core.Dashboard", "Web.Core.Dashboard\Web.Core.Dashboard.csproj", "{628F3966-F06C-4BC9-9A04-ECABE01978E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
